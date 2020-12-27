@@ -35,11 +35,6 @@ public class JucSync01 {
         }
     }
 
-    @org.junit.Test
-    public void test01() throws Exception {
-        new T1().start();
-//        new T1().run();
-    }
 
     public static void main(String[] args) {
         new T1().start();
