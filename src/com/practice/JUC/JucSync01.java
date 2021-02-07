@@ -51,4 +51,6 @@ public class JucSync01 {
 //            }
 //        }).start();
     }
+    public static class R2{
+    }
 }
